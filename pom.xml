@@ -11,6 +11,9 @@
     <modules>
         <module>java-annotation-demo</module>
         <module>java-socket-demo</module>
+        <module>java-proxy-demo</module>
+        <module>java-genericity-demo</module>
+        <module>java-reflect-demo</module>
     </modules>
 
 

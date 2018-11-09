@@ -17,7 +17,7 @@ import java.lang.reflect.Proxy;
  */
 public class RpcClient {
     public static CalculatorService  getProxy(final Class<?> clazz ) {
-        InvocationHandler invocationHandler = new DynamicProxy(CalculatorService.class,"127.0.0.1",8888);
+        InvocationHandler invocationHandler = new DynamicProxy(CalculatorServiceImpl.class,"127.0.0.1",8888);
         return (CalculatorService) Proxy.newProxyInstance(clazz.getClassLoader(), clazz.getInterfaces(), invocationHandler);
     }
     public static void main(String[] args) {
