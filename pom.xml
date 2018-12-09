@@ -14,6 +14,7 @@
         <module>java-proxy-demo</module>
         <module>java-genericity-demo</module>
         <module>java-reflect-demo</module>
+        <module>java-base-common-demo</module>
     </modules>
 
 
