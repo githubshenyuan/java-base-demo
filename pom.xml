@@ -16,6 +16,7 @@
         <module>java-reflect-demo</module>
         <module>java-base-common-demo</module>
         <module>java-inner-class-demo</module>
+        <module>java-encryption-demo</module>
     </modules>
 
 
