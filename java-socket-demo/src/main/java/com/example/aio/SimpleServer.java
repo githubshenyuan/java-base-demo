@@ -16,7 +16,6 @@ public class SimpleServer {
         AsynchronousServerSocketChannel socketChannel = AsynchronousServerSocketChannel.open();
         socketChannel.bind(new InetSocketAddress(8082));
         socketChannel.accept(null, new Handler());
-        socketChannel.accept()
 
     }
 

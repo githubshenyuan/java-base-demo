@@ -17,6 +17,7 @@
         <module>java-base-common-demo</module>
         <module>java-inner-class-demo</module>
         <module>java-encryption-demo</module>
+        <module>java-thread-demo</module>
     </modules>
 
 
