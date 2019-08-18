@@ -18,6 +18,7 @@
         <module>java-inner-class-demo</module>
         <module>java-encryption-demo</module>
         <module>java-thread-demo</module>
+        <module>java-sort-demo</module>
     </modules>
 
 
