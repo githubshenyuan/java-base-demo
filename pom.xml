@@ -20,6 +20,7 @@
         <module>java-thread-demo</module>
         <module>java-sort-demo</module>
         <module>java-xml-parser-demo</module>
+        <module>java-common-demo</module>
     </modules>
 
 
