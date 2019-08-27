@@ -1,11 +1,12 @@
-package com.example.sort;
+package com.example.algorithm.sort;
 
 public class QuickVariantSort {
 
 
     public static int getPartition(int sort ,int start ,int end) {
-        int pivot = (int)()
+        //int pivot = (int)()
 
+        return 0;
     }
 
     public static void swap(int[] sort, int i, int j) {
