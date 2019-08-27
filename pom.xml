@@ -21,6 +21,7 @@
         <module>java-xml-parser-demo</module>
         <module>java-common-demo</module>
         <module>java-algorithm-demo</module>
+
     </modules>
     <build>
         <plugins>
