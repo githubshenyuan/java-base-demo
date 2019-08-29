@@ -1,4 +1,4 @@
-package com.example.algorithm;
+package com.example.algorithm.bigData;
 
 import com.google.common.hash.BloomFilter;
 import com.google.common.hash.Funnels;
